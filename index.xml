@@ -2,31 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>I AM MURALI</title>
-    <link>https://iammurali.github.io//</link>
+    <link>https://iammurali.github.io/</link>
     <description>Recent content on I AM MURALI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Oct 2019 20:00:35 +0530</lastBuildDate>
     
-	<atom:link href="https://iammurali.github.io//index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://iammurali.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My First</title>
-      <link>https://iammurali.github.io//posts/my-first/</link>
+      <title>Basic git tutorial</title>
+      <link>https://iammurali.github.io/posts/my-first/</link>
       <pubDate>Wed, 02 Oct 2019 20:00:35 +0530</pubDate>
       
-      <guid>https://iammurali.github.io//posts/my-first/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>About the Blog</title>
-      <link>https://iammurali.github.io//posts/about-the-blog/</link>
-      <pubDate>Wed, 02 Oct 2019 19:41:05 +0530</pubDate>
-      
-      <guid>https://iammurali.github.io//posts/about-the-blog/</guid>
-      <description></description>
+      <guid>https://iammurali.github.io/posts/my-first/</guid>
+      <description>Hello I&amp;rsquo;m Murali! If you&amp;rsquo;re reading this you are confused about the process of git and want to have full clarity. Don&amp;rsquo;t worry, by the enf of this post. you will have good idea on git and its basics.
+What is git? Git is a distributed version-control system for tracking changes in source code during software development.
+It is designed for coordinating work among programmers, but it can be used to track changes in any set of files</description>
     </item>
     
   </channel>
