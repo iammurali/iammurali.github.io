@@ -1,29 +1,42 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Install postgres in ubuntu or pop os 20.10"
 date:   2021-06-17 21:57:12 +0530
-categories: jekyll update
+categories: setup
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+1. Add postgresql repository 
+```
+	sudo apt-get install wget ca-certificates
+```
+ 
+```
+	wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo apt-key add -
+```
 
-`YEAR-MONTH-DAY-title.MARKUP`
+```
+	sudo sh -c 'echo "deb http://apt.postgresql.org/pub/repos/apt/ 'lsb_release -cs'-pgdg main" >> /etc/apt/sources.list.d/pgdg.list'
+```
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+2. update package list
+```
+	sudo apt-get update
+```
 
-Jekyll also offers powerful support for code snippets:
+3. Install postgresql
+```
+	sudo apt-get install postgresql postgresql-contrib
+```
+4. Connect to postgres after installing
+```
+	sudo su - postgres
+```
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+5. To open postgres prompt for running SQL queries
+```
+	psql
+```
+6. To check the connection info:
+```
+	\conninfo
+```
