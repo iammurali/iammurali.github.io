@@ -2,6 +2,7 @@
 layout: post
 title:  "Install postgres in ubuntu or pop os 20.10"
 date:   2021-06-17 21:57:12 +0530
+tags: ["postgres","ubuntu"]
 categories: setup
 ---
 
