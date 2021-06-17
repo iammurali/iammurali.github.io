@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Life of a work from home software developer"
-date: 2021-06-18 12:45:00 +0530
+date: 2021-06-18 01:00:00 +0530
 tags: ["life","career"]
 categories: life
 ---
