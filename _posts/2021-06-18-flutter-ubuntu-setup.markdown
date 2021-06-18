@@ -29,4 +29,6 @@ flutter sdk-path
 path has to be set for all this and 
 we need to download android-sdk for testing in android
 
-
+I am searching for a way where i can install it  without android studio, as android studio
+is a huge toool and i dont want run it on my linux machin with 8 gigs of ram along with emulator
+i would prefer a setup that involves VS-code which is primary editor.
