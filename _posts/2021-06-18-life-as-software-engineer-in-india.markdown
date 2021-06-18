@@ -23,13 +23,13 @@ Didnt order any unhealthy foods. I was able understand and connect with my famil
  Since we are working from home our colleagues wont know what we are doing and wont know what kind of situation we were in, 
 
 Scenario:
-	I worked continuosly one fine morning i forgot to have my breakfast, after a 3hr unhealthy coding session i went for my lunch at 1pm, I am getting a call from the office reagarding some issue. 
+	I worked continuosly one fine morning i forgot to have my breakfast, after a 3hr unhealthy coding session i went for my lunch at 1pm, I am getting a call from the office reagarding some issue. I mean it is okay if it happens one or two times in day, but when things happen more frequently, I become incapable of handling the situation. as you cant explain to everyone. 
 
 this is one example scenario, where i find difficulty in working from home.
-which happens more frequently than you thin.
+which happens more frequently than you think.
 
-If i work in office, i wont be asked by anyone in home to go to shop for any stuffs. since i am working in between my coding session my mom or someone from my family needs me for something where i need stop what im doing, this usually will affect my flow where i would have had something in mind and it gets interuppted and i will forget what i was supposed to do.
+If i work in office, i wont be asked by anyone in home to go to shop for any stuffs. since i am working from home in between my coding session my mom or someone from my family needs me for something where i need stop what im doing, this usually will affect my flow where i would have had something in mind and it gets interuppted and i will forget what i was supposed to do.
 
-Which made me think that office wasnt bad, it kept me productive
+Which made me think that office wasnt bad, it kept me productive 
 
 Being With family is one advantage none of us can avoid. 👩‍❤️‍👨
