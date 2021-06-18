@@ -6,8 +6,9 @@ tags: ["life","career"]
 categories: life
 ---
 
-### WFH(WORK FROM HOME):The Good Cakes
-	So, being a software engineer has become really common thing today.
+### WFH(WORK FROM HOME):The Good that i see
+	
+So, being a software engineer has become really common thing today.
 and with the help of cheapest internet option in india, every people has internet in their hands more than ever before.
 
 since internet is widely available working from anywhere is never been easier,
