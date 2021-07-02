@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Next.js+Tailwind for Noobs"
-date:   2021-06-17 21:57:12 +0530
+date:   2021-06-18 21:57:12 +0530
 tags: ["nextjs","tailwindcss","tailwind","react"]
 categories: setup
 ---
