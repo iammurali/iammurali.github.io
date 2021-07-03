@@ -46,3 +46,5 @@ categories: setup
 ALTER USER postgres PASSWORD 'yourPassword';
 ```
 if you have changed the password successfully it will show you success
+
+This is installation is done on pop os running on asus zephyrus g14
