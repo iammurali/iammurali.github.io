@@ -24,4 +24,4 @@ Here are the wallpapers for download in FULL RES:
   <img src="{{site.baseurl}}/images/darkmode-2.png" width="100" /> 
   <img src="{{site.baseurl}}/images/darkmode-1.png" width="100" />
 </p>
-
+remember to turn off persepective zoom which gives it a more pleasant look
