@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hide your Iphone dock with this Magical wallpaper"
-date:   2021-06-25 21:57:12 +0530
+date:   2021-07-13 08:50:12 +0530
 tags: ["dock","iphone","hacks"]
 categories: iphone
 ---
@@ -20,8 +20,8 @@ Here are the wallpapers for download in FULL RES:
 
 
 <p float="left">
-  <img src="/images/darkmode-1.png" width="100" />
-  <img src="/images/darkmode-2.png" width="100" /> 
-  <img src="/images/darkmode-1.png" width="100" />
+  <img src="{{site.baseurl}}/images/darkmode-1.png" width="100" />
+  <img src="{{site.baseurl}}/images/darkmode-2.png" width="100" /> 
+  <img src="{{site.baseurl}}/images/darkmode-1.png" width="100" />
 </p>
 
