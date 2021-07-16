@@ -36,4 +36,6 @@ The above will ask for your confirmation each time
 press `y` to replace and `n` to cancel change
 
 
+Let me know if you find this useful and i would like to update my blog based on feedback.
+
 
