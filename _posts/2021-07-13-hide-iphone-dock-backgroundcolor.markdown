@@ -8,7 +8,7 @@ categories: iphone
 
 # Hide your Iphone dock with this magical wallpaper
 
-	Hi, I have been usin the iphone 11 for more than 6months and i like to play around with my wallpapers often. one day when i was roaming in weebly. i found that people were making cool wallapapers that can hide the dock of your iphone.
+Hi, I have been usin the iphone 11 for more than 6months and i like to play around with my wallpapers often. one day when i was roaming in weebly. i found that people were making cool wallapapers that can hide the dock of your iphone.
 
 
 There is more option for wallpapers like hiding both folder name and dock background.
