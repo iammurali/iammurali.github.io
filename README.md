@@ -1,3 +1,3 @@
 # iammurali.github.io
 
-![Blog link](https://iammurali.github.io/)
+<https://iammurali.github.io/>
