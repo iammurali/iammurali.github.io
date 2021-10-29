@@ -13,7 +13,8 @@ i found rust in so many progrrammers mentioning about its speed.
 
 
 Installation linek
-![Link for rust](https://www.rust-lang.org/tools/install)
+
+<https://www.rust-lang.org/tools/install>
 
 Run the first command from the link will look mostly like this 
 
