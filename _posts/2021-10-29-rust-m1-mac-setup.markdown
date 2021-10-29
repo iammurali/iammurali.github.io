@@ -33,3 +33,31 @@ To test the rust version
 ```rustc --version```
 
 it will return the version output
+
+### Running the first rust program
+
+Now that we have completed the rust installation the next step is to create a
+program to print our fist hello mars
+
+create a folder called hello_mars
+
+create your first main.rs and write the following inside the file
+
+```
+fn main(){
+    println!("Hello mars!");
+}
+```
+
+save the file and run it with
+
+``` rustc main.rs ```
+
+
+
+
+
+
+
+
+
