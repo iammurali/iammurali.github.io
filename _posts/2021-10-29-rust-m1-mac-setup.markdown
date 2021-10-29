@@ -8,7 +8,7 @@ categories: setup
 
 ## Setting up rust natively in M1 mac (M1 macbook)
 
-	I recently developed an interest for rust programming and in general low level programming 
+I recently developed an interest for rust programming and in general low level programming 
 i found rust in so many progrrammers mentioning about its speed.
 
 
@@ -16,6 +16,7 @@ Installation linek
 ![Link for rust](https://www.rust-lang.org/tools/install)
 
 Run the first command from the link will look mostly like this 
+
 ```curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh```
 
 the installation process will be quick, donot clear the screen at the end of the page you will
