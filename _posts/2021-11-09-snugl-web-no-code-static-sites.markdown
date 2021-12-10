@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "I built a no code static website creator in a week - Snugl"
-date:   2021-11-09 10:57:12 +0530
+date: 2021-11-09 10:57:12 +0530
 tags: ["snugl","nextjs","startup"]
 categories: snugl
 ---
