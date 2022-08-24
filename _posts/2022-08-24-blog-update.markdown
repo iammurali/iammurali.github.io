@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Updating my blog website with a new theme"
-date:   2021-06-17 21:57:12 +0530
+date:   2022-08-24 21:57:12 +0530
 tags: ["jekyll"]
 categories: setup
 ---
