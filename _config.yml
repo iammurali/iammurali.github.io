@@ -30,8 +30,8 @@ twitter_username: muralielumalai1
 github_username:  iammurali
 
 # Build settings
-remote_theme: mmistakes/minimal-mistakes
-# theme: dark
+# remote_theme: mmistakes/minimal-mistakes
+theme: minima
 plugins:
   - jekyll-feed
 
