@@ -31,7 +31,7 @@ github_username:  iammurali
 
 # Build settings
 remote_theme: mmistakes/minimal-mistakes
-theme: dark
+# theme: dark
 plugins:
   - jekyll-feed
 
