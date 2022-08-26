@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom" xmlns:dc="https://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Chalk</title>
+    <description></description>
+    <link>http://chalk.nielsenramon.com</link>
+    <atom:link href="http://chalk.nielsenramon.com/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Updating my blog website with a new theme</title>
+        <description></description>
+        <pubDate>Thu, 25 Aug 2022 09:14:12 +0530</pubDate>
+        <link>http://chalk.nielsenramon.com/posts/blog-update</link>
+        <guid isPermaLink="true">http://chalk.nielsenramon.com/posts/blog-update</guid>
+      </item>
+    
+      <item>
+        <title>Install mysql mac os</title>
+        <description></description>
+        <pubDate>Tue, 09 Nov 2021 10:57:12 +0530</pubDate>
+        <link>http://chalk.nielsenramon.com/posts/mysql-installation-macos</link>
+        <guid isPermaLink="true">http://chalk.nielsenramon.com/posts/mysql-installation-macos</guid>
+      </item>
+    
+      <item>
+        <title>I built a no code static website creator in a week - Snugl</title>
+        <description></description>
+        <pubDate>Tue, 09 Nov 2021 10:57:12 +0530</pubDate>
+        <link>http://chalk.nielsenramon.com/posts/snugl-web-no-code-static-sites</link>
+        <guid isPermaLink="true">http://chalk.nielsenramon.com/posts/snugl-web-no-code-static-sites</guid>
+      </item>
+    
+      <item>
+        <title>Installing rust natively in M1 mac</title>
+        <description></description>
+        <pubDate>Fri, 29 Oct 2021 10:00:12 +0530</pubDate>
+        <link>http://chalk.nielsenramon.com/posts/rust-m1-mac-setup</link>
+        <guid isPermaLink="true">http://chalk.nielsenramon.com/posts/rust-m1-mac-setup</guid>
+      </item>
+    
+      <item>
+        <title>Vim Crucial workflows that no one talks about</title>
+        <description></description>
+        <pubDate>Tue, 13 Jul 2021 19:57:12 +0530</pubDate>
+        <link>http://chalk.nielsenramon.com/posts/vim-crucial-workflows-no-one-talks-about</link>
+        <guid isPermaLink="true">http://chalk.nielsenramon.com/posts/vim-crucial-workflows-no-one-talks-about</guid>
+      </item>
+    
+      <item>
+        <title>Hide your Iphone dock with this Magical wallpaper</title>
+        <description></description>
+        <pubDate>Tue, 13 Jul 2021 08:50:12 +0530</pubDate>
+        <link>http://chalk.nielsenramon.com/posts/hide-iphone-dock-backgroundcolor</link>
+        <guid isPermaLink="true">http://chalk.nielsenramon.com/posts/hide-iphone-dock-backgroundcolor</guid>
+      </item>
+    
+      <item>
+        <title>Pop os 21.04 on asus zephyrus g14, Does it run well? YES</title>
+        <description></description>
+        <pubDate>Fri, 02 Jul 2021 21:57:12 +0530</pubDate>
+        <link>http://chalk.nielsenramon.com/posts/pop-os-cosmic-asus-zephyrus-g14</link>
+        <guid isPermaLink="true">http://chalk.nielsenramon.com/posts/pop-os-cosmic-asus-zephyrus-g14</guid>
+      </item>
+    
+      <item>
+        <title>GETX Easier, Faster, LOW-HUSTLE state management in flutter</title>
+        <description></description>
+        <pubDate>Fri, 25 Jun 2021 21:57:12 +0530</pubDate>
+        <link>http://chalk.nielsenramon.com/posts/easiest-state-management-flutter</link>
+        <guid isPermaLink="true">http://chalk.nielsenramon.com/posts/easiest-state-management-flutter</guid>
+      </item>
+    
+      <item>
+        <title>Next.js+Tailwind for Noobs</title>
+        <description></description>
+        <pubDate>Fri, 18 Jun 2021 21:57:12 +0530</pubDate>
+        <link>http://chalk.nielsenramon.com/posts/nextjs-tailwind-for-noobs</link>
+        <guid isPermaLink="true">http://chalk.nielsenramon.com/posts/nextjs-tailwind-for-noobs</guid>
+      </item>
+    
+      <item>
+        <title>Life of a work from home software developer</title>
+        <description></description>
+        <pubDate>Fri, 18 Jun 2021 01:00:00 +0530</pubDate>
+        <link>http://chalk.nielsenramon.com/posts/life-as-software-engineer-in-india</link>
+        <guid isPermaLink="true">http://chalk.nielsenramon.com/posts/life-as-software-engineer-in-india</guid>
+      </item>
+    
+  </channel>
+</rss>
