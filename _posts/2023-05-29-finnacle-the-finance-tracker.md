@@ -24,9 +24,9 @@ There is nothing special, i just built it for fun and for tracking my own expens
 
 ### Does it work?
 
-It does work, i was initially building this for iphone as i cannot sideload apps on iphone the test flight version deletes all sql data after a certain amount of time which i dont want to spend time or money to make it work at that poin of time. 
+It does work, i was initially building this for iphone as i cannot sideload apps on iphone the test flight version deletes all sql data after a certain amount of time which i dont want to spend time or money to make it work at that point of time. 
 
-I have decided to publish an android version as github release which is progress as of (29-5-23). the app works, you have the ability to add or delete expenses and track the loans and debts you have give.
+I have decided to publish an android version as github release which is progress as of (29-5-23). the app works, you have the ability to add or delete expenses and track the loans and debts you have given.
 
 ### Where can i find the project
 
